@@ -18,7 +18,7 @@ dotenv.config();
 const app = express();
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://fin-track-amber-three.vercel.app'
+  'https://fin-track-1.vercel.app'
 ];
 
 // Middleware
